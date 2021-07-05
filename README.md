@@ -5,7 +5,7 @@ Proyecto: Cotizador de seguro de autos.
 - HTML5
 - CSS3
 - JS(Javascript)
-- Framework: Bootstrap material
+
 .Existen 3 modelos cada uno con modelos distintos.
 .Cada año del auto su precio debera ser menor en un 3%
 .El seguro del auto completo o basico tienen distintos precios
