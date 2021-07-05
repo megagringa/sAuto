@@ -1,6 +1,6 @@
 # sAuto
 
-Proyecto:Cotizador de seguro de autos.
+Proyecto: Cotizador de seguro de autos.
 
 - HTML5
 - CSS3
