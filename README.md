@@ -4,13 +4,18 @@
 
 ### [Simulador de Seguro de autos](https://megagringa.github.io/sAuto/index.html)
 
-Proyecto: Cotizador de seguro de autos.
+Proyecto GastoSemanal: trabajado desde Udemy - El proyecto viene con una estructura armada en html y css - 
+         Solo se implementa js. 
+
+
+## Lenguajes y tecnologías.
 
 - HTML5
-- CSS3
+- CSS3: Materialize, Tailwind
 - JS(Javascript)
 
-.Existen 3 modelos cada uno con modelos distintos.
-.Cada año del auto su precio debera ser menor en un 3%
-.El seguro del auto completo o basico tienen distintos precios
-.Debera ser realizado con prototypes y migrado a clases
+- **Udemy**:
+    - Proyecto de práctica para mejorar skills.
+    
+- **Proyecto**:
+    - Seguro de Autos.
