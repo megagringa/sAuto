@@ -1,6 +1,4 @@
-# sAuto
-
-# #simuladordeSeguros
+# #sAuto
 
 ### [Simulador de Seguro de autos](https://megagringa.github.io/sAuto/index.html)
 
@@ -18,4 +16,4 @@ Proyecto GastoSemanal: trabajado desde Udemy - El proyecto viene con una estruct
     - Proyecto de práctica para mejorar skills.
     
 - **Proyecto**:
-    - Seguro de Autos.
+    - Simulador de seguro de Autos.
