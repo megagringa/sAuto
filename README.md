@@ -9,5 +9,7 @@ Proyecto de simular un seguro de autos - El proyecto viene con una estructura ar
 ## Lenguajes y tecnologías.
 
 - HTML5
-- CSS3: Materialize, Tailwind
+- CSS3: 
+- Fichero: Materialize
+- Framework: Tailwind
 - JS(Javascript)
